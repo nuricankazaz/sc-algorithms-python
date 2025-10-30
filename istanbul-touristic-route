@@ -1,0 +1,15 @@
+landmarks = [
+    ("New Istanbul Airport", 41.2753, 28.7519),  # Start/End
+    ("Hagia Sophia / Sultanahmet", 41.008469, 28.980261),
+    ("Topkapi Palace", 41.011574, 28.983269),
+    ("Blue Mosque (Sultanahmet Mosque)", 41.005745, 28.977114),
+    ("Grand Bazaar", 41.010658, 28.968058),
+    ("Eminönü / Spice Bazaar area", 41.01478, 28.9694),
+    ("Galata Tower", 41.025658, 28.974155),
+    ("Taksim Square", 41.036945, 28.985832),
+    ("İstiklal Avenue (approx center)", 41.033806, 28.977905),
+    ("Karaköy (Galata Bridge north end)", 41.0225, 28.9733),
+    ("Ortaköy", 41.04806, 29.02361),
+    ("Beşiktaş (ferry/center)", 41.0439, 29.0073),
+    ("Kadıköy (ferry/center)", 41.0427, 29.0073)
+]
